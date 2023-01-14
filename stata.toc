@@ -1,0 +1,9 @@
+v 2.3.0
+d Materials by Attaullah Shah
+d Institute of Management Sciences, Peshawar - Pakistan
+d attaullah.shah@imsciences.edu.pk
+d http://fintechprofessor.com
+
+d 'asdocx': Easily generate high-quality tables from Stata results / data and export them to various formats including Word, Excel, LaTeX, and HTML.
+
+p asdocx
