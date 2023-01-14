@@ -1,0 +1,26 @@
+v 3
+d asdocx: Creates high quality tables in MS Word / Excel / LaTeX / HTML  from Stata output
+
+
+
+d
+d {title:Distribution-Date}: 12Jan2023
+d 
+d {title:Author:}
+d
+d Attaullah Shah, Institute of Management Sciences, Peshawar Pakistan
+d Email: attaullah.shah@imsciences.edu.pk
+d See my webpage for more programs and help at:
+d {browse "http://www.FinTechProfessor.com/asdocx"}
+
+
+f asdocx.ado
+f lasdocx.mlib
+f asdocx_database.mo
+f asdocx.sthlp
+f asdocx_export.ado
+f asdocx_export_excel.ado
+f flexmat.ado
+f flexmat.sthlp
+f asdocx_defaults.ado
+f asdocx_update.ado
